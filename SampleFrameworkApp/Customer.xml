@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <Customer>
+    <CustomerId>111</CustomerId>
+    <CustomerName> Maruthi</CustomerName>
+    <CustomerAddress> Davangere</CustomerAddress>
+    <BillAmount>34000</BillAmount>
+  </Customer>
+  <Customer>
+    <CustomerId>112</CustomerId>
+    <CustomerName> Arvind</CustomerName>
+    <CustomerAddress> Bellary</CustomerAddress>
+    <BillAmount>20000</BillAmount>
+  </Customer>
+</Customers>

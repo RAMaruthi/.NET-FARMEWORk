@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Employee1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmpId>111</EmpId>
+  <EmpName>Maruthi</EmpName>
+  <EmpAddress>Bangalore</EmpAddress>
+</Employee1>

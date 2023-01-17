@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEmpyloee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Empyloee>
+    <CustId>1</CustId>
+    <CustName>Maruthi </CustName>
+    <CustAddress>Dvg</CustAddress>
+    <CustPhon>988654</CustPhon>
+  </Empyloee>
+  <Empyloee>
+    <CustId>2</CustId>
+    <CustName>arvind</CustName>
+    <CustAddress>bng</CustAddress>
+    <CustPhon>676767767</CustPhon>
+  </Empyloee>
+</ArrayOfEmpyloee>
